@@ -74,4 +74,6 @@ Voici quelques-unes de mes créations phares :
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZhMjkyMDMwNzMwMjQ5MjVjMWQ2YzEwMjUzZjM0YzU5YWQyNzQ5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjRrfIPjeNDyc/giphy.gif" width="200" alt="Hack the Planet">
 </p>
 
-> *"Le futur appartient à ceux qui codent aujourd’hui."*
+> 
+*"Le futur appartient à ceux qui codent aujourd’hui."*
+*“Code comme si personne ne regardait, hack comme si tout le monde te traquait.”*
