@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBmd2d1NTRwOGl0Y2t6dWI0M3J1bndlN3l4NTM5aWJ3eXp1djYzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/igJK985xZj8Cqq0YOW/giphy.gif" width="300" alt="Cyberpunk Hacker">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBmd2d1NTRwOGl0Y2t6dWI0M3J1bndlN3l4NTM5aWJ3eXp1djYzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/igJK985xZj8Cqq0YOW/giphy.gif" width="300" alt="Celebrate !">
 </p>
 <h1 align="center">👾 Tom Deprez - Le Couteau Suisse de la Tech 👾</h1>
 
@@ -79,9 +79,11 @@ Voici quelques-unes de mes créations phares :
 ---
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmtra3F3dzl5ZXg0OHIxZmNlMHllamR5NW5mcGlucDdkZnlyMGd3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWu82QD3pj4wvEQ/giphy.gif" width="200" alt="Hack the Planet">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmtra3F3dzl5ZXg0OHIxZmNlMHllamR5NW5mcGlucDdkZnlyMGd3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWu82QD3pj4wvEQ/giphy.gif" width="200" alt="Computer">
 </p>
 
 > 
 *"Le futur appartient à ceux qui codent aujourd’hui."*
 *“Code comme si personne ne regardait, hack comme si tout le monde te traquait.”*
+
+## As-tu trouvé le GIF caché ? 🎉 Celebrate ! 🎉
