@@ -86,4 +86,4 @@ Voici quelques-unes de mes créations phares :
 *"Le futur appartient à ceux qui codent aujourd’hui."*
 *“Code comme si personne ne regardait, hack comme si tout le monde te traquait.”*
 
-## As-tu trouvé le GIF caché ? 🎉 Celebrate ! 🎉
+### As-tu trouvé le GIF caché ? 🎉 Celebrate ! 🎉
