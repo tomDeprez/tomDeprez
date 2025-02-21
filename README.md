@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZhNmFzN2N0bDFmM2MxdXFuN2M4b2Rpb3d1NmY1NGg5eGZhMXVuZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISRnn/giphy.gif" width="300" alt="Cyberpunk Vibes">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBmd2d1NTRwOGl0Y2t6dWI0M3J1bndlN3l4NTM5aWJ3eXp1djYzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/igJK985xZj8Cqq0YOW/giphy.gif" width="300" alt="Cyberpunk Hacker">
 </p>
-
 <h1 align="center">👾 Tom Deprez - Le Couteau Suisse de la Tech 👾</h1>
 
 <p align="center">
@@ -59,8 +58,11 @@ Voici quelques-unes de mes créations phares :
 
 ### 📊 Mes Stats GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomDeprez&show_icons=true&theme=dracula" alt="Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomDeprez&layout=compact&theme=dracula" alt="Langages">
+  <img src="https://github-readme-stats.vercel.app/api?username=tomDeprez&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="Stats Générales">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomDeprez&layout=compact&theme=dracula&langs_count=8" alt="Langages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tomDeprez&theme=dracula&hide_border=true" alt="Streak">
+  <img src="https://github-profile-trophy.vercel.app/?username=tomDeprez&theme=dracula&no-frame=true&margin-w=15" alt="Trophées">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tomDeprez&theme=dracula&hide_border=true&area=true" alt="Graphique d'activité">
 </p>
 
 ---
@@ -77,7 +79,7 @@ Voici quelques-unes de mes créations phares :
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZhMjkyMDMwNzMwMjQ5MjVjMWQ2YzEwMjUzZjM0YzU5YWQyNzQ5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjRrfIPjeNDyc/giphy.gif" width="200" alt="Hack the Planet">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmtra3F3dzl5ZXg0OHIxZmNlMHllamR5NW5mcGlucDdkZnlyMGd3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWu82QD3pj4wvEQ/giphy.gif" width="200" alt="Hack the Planet">
 </p>
 
 > 
