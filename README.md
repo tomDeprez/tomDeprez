@@ -8,6 +8,18 @@
   <a href="https://twitter.com/tomDeprez"><img src="https://img.shields.io/twitter/follow/tomDeprez?style=social" alt="Twitter"></a>
   <a href="https://github.com/tomDeprez"><img src="https://img.shields.io/github/followers/tomDeprez?style=social" alt="GitHub Followers"></a>
   <a href="mailto:tonemail@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PHP-Ninja-777BB4?logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Java-Master-007396?logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Docker-Captain-2496ED?logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-Pro-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/TensorFlow-IA%20Wizard-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/CyberSec-Hacker-FF0000?logo=security&logoColor=white" alt="CyberSec">
+  <img src="https://img.shields.io/github/stars/tomDeprez?style=social" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/commit-activity/m/tomDeprez?color=green" alt="Commit Activity">
+  <img src="https://img.shields.io/badge/License-MIT-blue" alt="License">
+  <img src="https://img.shields.io/badge/Coffee-Powered-6F4E37?logo=coffee&logoColor=white" alt="Coffee">
+  <img src="https://img.shields.io/badge/Hack-The%20Planet-00FF00?logo=skull&logoColor=black" alt="Hack">
 </p>
 
 ---
